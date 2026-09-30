@@ -1,6 +1,6 @@
 # UNLISTED®
 
-![UNLISTED®](public/transmissions/transmission-001-1789811729412.png)
+![UNLISTED®](public/Thumbnail_Unlisted_Game_2026_By_NynerdlyVisualsStudio.png)
 
 > Three identities appeared where no record of them should exist.
 
@@ -69,7 +69,7 @@ The project currently includes two visual themes - Cyber and Tokyo - as well as 
 
 ## Built With
 
-`React` · `Vite` · `JavaScript` · `Tailwind CSS` · `React Router` · `Lucide React` · `React Icons` · `Sonner` · `Procreate`
+`React` · `Vite` · `JavaScript` · `Tailwind CSS` · `React Router` · `Express` · `Multer` · `Lucide React` · `React Icons` · `Sonner` · `Procreate`
 
 ---
 
